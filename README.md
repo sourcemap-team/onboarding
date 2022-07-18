@@ -1,1 +1,23 @@
-# onboarding
+# Stack
+
+
+## React
+https://ru.reactjs.org/
+
+## Redux toolkit 
+https://redux-toolkit.js.org/
+
+## Strapi 
+https://strapi.io/
+
+## React table
+https://www.npmjs.com/package/react-table
+
+## TypeScript
+https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
+
+## Formik
+https://formik.org/docs/overview
+
+## React query
+https://www.npmjs.com/package/react-query
