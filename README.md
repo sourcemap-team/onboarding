@@ -1,5 +1,13 @@
 # Stack
 
+## Babel
+https://babeljs.io/docs/en/plugins-list
+
+## Webpack
+https://webpack.js.org/
+
+## Sass
+https://sass-scss.ru/
 
 ## React
 https://ru.reactjs.org/
