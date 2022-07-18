@@ -15,6 +15,9 @@ https://ru.reactjs.org/
 ## Redux toolkit 
 https://redux-toolkit.js.org/
 
+## Next JS
+https://nextjs.org/
+
 ## Strapi 
 https://strapi.io/
 
