@@ -29,3 +29,17 @@ https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
 
 ## Formik
 https://formik.org/docs/overview
+
+## Tailwind
+https://tailwindcss.com/
+
+## MaterialUI
+https://mui.com/
+
+## React Query
+https://www.npmjs.com/package/react-query
+
+## RTK Query
+https://redux-toolkit.js.org/rtk-query/overview
+
+##
