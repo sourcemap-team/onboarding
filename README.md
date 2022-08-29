@@ -29,6 +29,3 @@ https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
 
 ## Formik
 https://formik.org/docs/overview
-
-## React query
-https://www.npmjs.com/package/react-query
